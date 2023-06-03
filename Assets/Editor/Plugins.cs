@@ -8,7 +8,7 @@ namespace Demo.Tool
 {
     internal class Plugins : Editor
     {
-        private const string TargetPath = @"Assets\Scripts\PathManager.cs";
+        private const string TargetPath = @"Assets\Scripts\Managers\PathManager.cs";
         private const string PerfabsPath = @"Assets\Resources\Perfabs";
 
         private const string StartStr = "namespace Demo\r\n{\r\n    /// <summary>\r\n    /// 所有的路径相关 用静态常量存储对应字符串\r\n    /// </summary>\r\n    public class PathManager\r\n    {\r\n";

@@ -6,6 +6,5 @@ namespace Demo
     public class PathManager
     {
 		public const string BackGround = "Perfabs/BackGround";
-		public const string Main = "Perfabs/Main";
     }
 }
